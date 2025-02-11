@@ -1,2 +1,0 @@
-# PostgreSQL
-creating a repository
